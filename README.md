@@ -43,5 +43,11 @@ The application will be available at http://localhost:3000.
 ## Building the Project
 To build the project for production, use the following command:
 ```bash
-  npm build
+  npm run build
+```
+
+## Linting the Project
+To lint the project code, use the following command:
+```bash
+  npm run lint
 ```
