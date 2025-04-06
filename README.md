@@ -18,7 +18,7 @@
 - **EsLint 9+**
 - **Prettier 3+**
 - **Vite 6+**
-- **Jest**
+- **Jest 29+**
 
 ## Requirements
 - Node.js (version 14 or newer)
