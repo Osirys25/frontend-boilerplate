@@ -12,6 +12,14 @@
 - **SCSS support**: Easier management of styles and variables.
 - **Task automation**: Scripts for building, testing, and deploying the application.
 
+## Project includes:
+- **React 19+**
+- **TypeScript 5+**
+- **EsLint 9+**
+- **Prettier 3+**
+- **Vite 6+**
+- **Jest**
+
 ## Requirements
 - Node.js (version 14 or newer)
 - npm
