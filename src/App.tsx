@@ -2,8 +2,8 @@ import {ReactNode} from "react";
 
 export function App(): ReactNode {
     return (
-        <div>
+        <h1 className="text-3xl font-bold underline">
             Boilerplate
-        </div>
+        </h1>
     )
 }
